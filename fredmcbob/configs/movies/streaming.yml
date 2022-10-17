@@ -15,7 +15,7 @@ collections:
     # visible_shared: true
     
   Disney+ Movies:
-    sort_title: +03_Disney+
+    sort_title: +03_Disney
     sync_mode: sync
     smart_label: release.desc
     trakt_list: https://trakt.tv/users/ryalism/lists/disney-movies?sort=released,asc

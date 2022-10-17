@@ -14,7 +14,7 @@ collections:
       - https://trakt.tv/users/pualani78/lists/christmas-2020
       - https://trakt.tv/users/veninjak/lists/complete-christmas-2021-copy
     url_poster: https://theposterdb.com/poster/212635/view?
-    schedule: range(11/01-01/05)
+    schedule: range(12/01-01/05)
     delete_not_scheduled: true
     visible_library: true
     visible_home: true
@@ -44,7 +44,7 @@ collections:
       - https://trakt.tv/users/evil-vin/lists/halloween-2021?sort=released,asc
     summary: "What's a monster's favorite bean? A human bean."
     url_poster: https://theposterdb.com/poster/212637
-    schedule: range(11/01-11/31)
+    schedule: range(10/01-11/02)
     visible_library: true
     visible_home: true
     visible_shared: true
