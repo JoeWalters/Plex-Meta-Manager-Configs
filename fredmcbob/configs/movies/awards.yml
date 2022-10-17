@@ -20,7 +20,7 @@
 
 templates:
     Awards:
-      sort_title: +01_1<<collection_name>>
+      sort_title: +01_2<<collection_name>>
       url_poster: https://theposterdb.com/api/assets/<<poster>>
     # visible_home: range(11/01-02/28)
     # visible_shared: range(11/01-02/28)

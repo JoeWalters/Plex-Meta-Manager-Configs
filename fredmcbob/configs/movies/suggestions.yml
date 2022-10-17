@@ -20,7 +20,7 @@
 templates:
   Suggestion:
     url_poster: https://theposterdb.com/api/assets/<<poster>>
-    sort_title: ++++++++++_<<collection_name>>
+    sort_title: +01_3<<collection_name>>
     collection_mode: hide
     collection_order: release.desc
     # visible_home: range(01/01-12/31)
