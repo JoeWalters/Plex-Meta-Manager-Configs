@@ -26,12 +26,12 @@ templates:
     # visible_home: range(01/01-12/31)
     # visible_shared: range(01/01-12/31)
     sync_mode: sync
-  Tautulli:
-    url_poster: https://theposterdb.com/api/assets/<<poster>>
-    sort_title: ++++++++++_<<collection_name>>
-    collection_mode: hide
-    collection_order: alpha
-    sync_mode: sync
+#  Tautulli:
+#    url_poster: https://theposterdb.com/api/assets/<<poster>>
+#    sort_title: ++++++++++_<<collection_name>>
+#    collection_mode: hide
+#    collection_order: alpha
+#    sync_mode: sync
       
 #############################
 ##       Collections       ##
