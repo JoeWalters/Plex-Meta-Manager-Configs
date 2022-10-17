@@ -218,12 +218,12 @@ collections:
       - https://trakt.tv/users/jjjonesjr33/lists/pandemic-virus-survival-guide
     summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
   ## The Stand Up Commedey collection is auto updated ##
-#  Stand Up Comedy:
-#    template: {name: Special Genre, poster: 213081}
-#    sort_title: +02_Stand_Up_Comedy
-#    trakt_list:
-#      - https://trakt.tv/users/jjjonesjr33/lists/stand-up-comedy
-#    summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
+  Stand Up Comedy:
+    template: {name: Special Genre, poster: 213081}
+    sort_title: +02_Stand_Up_Comedy
+    trakt_list:
+      - https://trakt.tv/users/jjjonesjr33/lists/stand-up-comedy
+    summary: Stand-up comedy is a comedic style in which a comedian performs in front of a live audience, speaking directly to them through a microphone. Comedians give the illusion that they are dialoguing, but in actuality, they are monologuing a grouping of humorous stories, jokes and one-liners, typically called a shtick, routine, act, or set. Some stand-up comedians use props, music or magic tricks to enhance their acts. Stand-up comedians perform quasi-autobiographical and fictionalized extensions of their offstage selves.
   ## Sword & Sorcery is a static collection list ##
 #  Sword & Sorcery:
 #    template: {name: Special Genre, poster: 213143}
