@@ -315,7 +315,9 @@ collections:
 
   Karate Kid:
     template: {name: collection}
-    trakt_list: https://trakt.tv/users/king-sol/lists/karate-kid
+    trakt_list: 
+      - https://trakt.tv/users/ireallylovevids/lists/karate-kid
+      - https://trakt.tv/users/morgan-the-mosaic/lists/karate-kid
     url_poster: https://theposterdb.com/api/assets/92958
     url_background: https://www.themoviedb.org/t/p/original/1ok5JGCsDt4Sh3CkFeXh2F2KB7F.jpg
 

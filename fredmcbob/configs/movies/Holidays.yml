@@ -13,7 +13,7 @@ collections:
       - https://trakt.tv/users/2borno2b/lists/christmas-movies-extravanganza
       - https://trakt.tv/users/pualani78/lists/christmas-2020
       - https://trakt.tv/users/veninjak/lists/complete-christmas-2021-copy
-    url_poster: https://theposterdb.com/poster/212635/view?
+    url_poster: https://theposterdb.com/api/assets/212635
     schedule: range(12/01-01/05)
     delete_not_scheduled: true
     visible_library: true
@@ -43,7 +43,7 @@ collections:
       - https://trakt.tv/users/triadcool/lists/halloween?sort=released,asc
       - https://trakt.tv/users/evil-vin/lists/halloween-2021?sort=released,asc
     summary: "What's a monster's favorite bean? A human bean."
-    url_poster: https://theposterdb.com/poster/212637
+    url_poster: https://theposterdb.com/api/assets/212637
     schedule: range(10/01-11/02)
     visible_library: true
     visible_home: true
@@ -69,7 +69,7 @@ collections:
     trakt_list:
       - https://trakt.tv/users/triadcool/lists/valentine
     summary: "What did the watermelon say to his fiance? You are one in a melon."
-    url_poster: https://theposterdb.com/poster/212641
+    url_poster: https://theposterdb.com/api/assets/212641
     schedule: range (02/01-02/14)
     visible_home: true
     visible_shared: true
