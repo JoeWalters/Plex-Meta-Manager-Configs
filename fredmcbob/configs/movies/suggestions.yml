@@ -82,7 +82,7 @@ collections:
 ##################
 
   Top Rated:
-    template: {name: Suggestion, poster: 213605}
+    template: {name: Suggestion, poster: 213613}
     imdb_list: 
       - https://www.imdb.com/search/title/?groups=top_250&count=250&sort=user_rating,desc&title_type=movie
     summary: Top Rated Movies  

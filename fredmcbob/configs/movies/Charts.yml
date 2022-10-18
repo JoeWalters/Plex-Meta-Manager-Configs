@@ -9,7 +9,7 @@ collections:
     collection_order: custom
     trakt_trending: 150
     summary: A collection of movies trending across the internet
-    url_poster: https://i.imgur.com/LFJnVzC.jpg
+    url_poster: https://theposterdb.com/api/assets/241648
     url_background: https://wallpaperbat.com/img/23094-cinema-hd-wallpaper-top-free-cinema-hd-background.jpg
     visible_library: true
     visible_home: true
