@@ -7,7 +7,7 @@ collections:
     imdb_list:
       url: https://www.imdb.com/search/title/?title_type=tv_series&release_date=1970-01-01,1979-12-31&num_votes=1000,&sort=user_rating,desc
       limit: 150
-    url_poster: https://i.imgur.com/GZcR8rJ.jpg
+    url_poster: https://theposterdb.com/api/assets/213584
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
     sort_title: +07_Best1970
     sync_mode: sync
@@ -17,7 +17,7 @@ collections:
     imdb_list:
       url: https://www.imdb.com/search/title/?title_type=tv_series&release_date=1980-01-01,1989-12-31&num_votes=1000,&sort=user_rating,desc
       limit: 150
-    url_poster: https://i.imgur.com/FK6ru1R.jpg
+    url_poster: https://theposterdb.com/api/assets/213585
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
     sort_title: +07_Best1980
     sync_mode: sync
@@ -27,7 +27,7 @@ collections:
     imdb_list:
       url: https://www.imdb.com/search/title/?title_type=tv_series&release_date=1990-01-01,1999-12-31&num_votes=5000,&languages=en&sort=user_rating,desc
       limit: 150
-    url_poster: https://i.imgur.com/pZJdBSW.jpg
+    url_poster: https://theposterdb.com/api/assets/213586
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
     sort_title: +07_Best1990
     sync_mode: sync
@@ -37,7 +37,7 @@ collections:
     imdb_list:
       url: https://www.imdb.com/search/title/?title_type=tv_series&release_date=2000-01-01,2009-12-31&num_votes=5000,&languages=en&sort=user_rating,desc
       limit: 150
-    url_poster: https://i.imgur.com/VquakZx.jpg
+    url_poster: https://theposterdb.com/api/assets/213587
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
     sort_title: +07_Best2000
     sync_mode: sync
@@ -47,7 +47,7 @@ collections:
     imdb_list:
       url: https://www.imdb.com/search/title/?title_type=tv_series&release_date=2010-01-01,2019-12-31&num_votes=5000,&languages=en&sort=user_rating,desc
       limit: 150
-    url_poster: https://i.imgur.com/NEPK2kG.jpg
+    url_poster: https://theposterdb.com/api/assets/213588
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
     sort_title: +07_Best2010
     sync_mode: sync
@@ -57,7 +57,7 @@ collections:
     imdb_list:
       url: https://www.imdb.com/search/title/?title_type=tv_series&release_date=2020-01-01,2029-12-31&num_votes=5000,&languages=en&sort=user_rating,desc
       limit: 150
-    url_poster: https://i.imgur.com/YWTD1gJ.jpg
+    url_poster: https://theposterdb.com/api/assets/213589
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
     sort_title: +07_Best2020
     sync_mode: sync
