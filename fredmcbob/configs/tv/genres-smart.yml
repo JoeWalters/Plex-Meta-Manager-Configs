@@ -88,9 +88,12 @@ collections:
   Biography:
     template: {name: Dynamic, collection: Biography, poster: 213332}
     summary: Biography films are a genre that dramatizes the life of a non-fictional or historically-based person or people. Such films show the life of a historical person and the central character's real name is used.
-  Children:
-    template: {name: Dynamic, collection: Children, poster: 241751}
-    summary: A children's film, or family film, is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind.
+#  Children:
+#    template: {name: Dynamic, collection: Children, poster: 241751}
+#    summary: A children's film, or family film, is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind.
+  Comedy:
+    template: {name: Dynamic, collection: Cooking, poster: 213351}
+    summary: Cooking is a way to prepare food.
   Comedy:
     template: {name: Dynamic, collection: Comedy, poster: 213139}
     summary: Comedy is a genre of film that uses humor as a driving force. The aim of a comedy film is to illicit laughter from the audience through entertaining stories and characters. Although the comedy film may take on some serious material, most have a happy ending. Comedy film has the tendency to become a hybrid sub-genre because humor can be incorporated into many other genres. Comedies are more likely than other films to fall back on the success and popularity of an individual star.
@@ -176,17 +179,17 @@ collections:
     imdb_list: 
       - "https://www.imdb.com/search/title/?title_type=movie&genres=Film-Noir"
     summary: "Film noir is a cinematic term used primarily to describe stylish Hollywood crime dramas, particularly those that emphasize cynical attitudes and sexual motivations. Many of the prototypical stories and much of the attitude of classic noir derive from the hardboiled school of crime fiction that emerged in the United States during the Great Depression."
-  Martial Arts: #Added Trakt List
-    template: {name: Genre, genre: Martial Arts, poster: 213140}
-    sort_title: +02_Martial_Arts
-    trakt_list:
-      - https://trakt.tv/users/jjjonesjr33/lists/the-top-250-greatest-martial-arts-movies-of-all-time
-    summary: Martial Arts films are a sub-genre of action films that feature numerous martial arts combat between characters. These combats are usually the films' primary appeal and entertainment value, and often are a method of storytelling and character expression and development. Martial Arts are frequently featured in training scenes and other sequences in addition to fights. Martial Arts films commonly include other types of action, such as hand-to-hand combat, stuntwork, chases, and gunfights.   
-  Music: #Added Trakt List
-    template: {name: Genre, genre: Music, poster: 213098}
-    trakt_list:
-      - https://trakt.tv/users/jjjonesjr33/lists/music
-    summary: Music films are genre that revolves around music being an integral part of the characters lives.
+#  Martial Arts: #Added Trakt List
+#    template: {name: Genre, genre: Martial Arts, poster: 213140}
+#    sort_title: +02_Martial_Arts
+#    trakt_list:
+#      - https://trakt.tv/users/jjjonesjr33/lists/the-top-250-greatest-martial-arts-movies-of-all-time
+#    summary: Martial Arts films are a sub-genre of action films that feature numerous martial arts combat between characters. These combats are usually the films' primary appeal and entertainment value, and often are a method of storytelling and character expression and development. Martial Arts are frequently featured in training scenes and other sequences in addition to fights. Martial Arts films commonly include other types of action, such as hand-to-hand combat, stuntwork, chases, and gunfights.   
+#  Music: #Added Trakt List
+#    template: {name: Genre, genre: Music, poster: 213098}
+#    trakt_list:
+#      - https://trakt.tv/users/jjjonesjr33/lists/music
+#    summary: Music films are genre that revolves around music being an integral part of the characters lives.
 #  Reality: #Added IMDB Genre
 #    template: {name: Genre, genre: Reality, poster: 213345}
 #    imdb_list: 

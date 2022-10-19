@@ -88,8 +88,8 @@ collections:
   Biography:
     template: {name: Dynamic, collection: Biography, poster: 213332}
     summary: Biography films are a genre that dramatizes the life of a non-fictional or historically-based person or people. Such films show the life of a historical person and the central character's real name is used.
-  Children:
-    template: {name: Dynamic, collection: Children, poster: 241751}
+#  Children:
+#    template: {name: Dynamic, collection: Children, poster: 241751}
     summary: A children's film, or family film, is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind.
   Comedy:
     template: {name: Dynamic, collection: Comedy, poster: 213139}
