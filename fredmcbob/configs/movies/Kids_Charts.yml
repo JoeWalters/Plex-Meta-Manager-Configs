@@ -13,7 +13,7 @@ collections:
     url_background: https://wallpaperbat.com/img/23094-cinema-hd-wallpaper-top-free-cinema-hd-background.jpg
     visible_library: true
     visible_home: true
-    visible_shared: false
+    visible_shared: true
 
 #  Popular Kids Movies:
 #    sort_title: +01_2Popular
