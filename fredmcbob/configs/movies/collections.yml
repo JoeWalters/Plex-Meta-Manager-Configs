@@ -104,6 +104,11 @@ collections:
     url_poster: https://theposterdb.com/api/assets/162017
     url_background: https://www.themoviedb.org/t/p/original/ojjzZUQlqKTsN1T7s5OAVZSjYMH.jpg
 
+  Clerks:
+    template: {name: collection: "182813"}
+    url_poster: https://theposterdb.com/api/assets/307765
+    url_background: https://www.themoviedb.org/t/p/original/m1VA6XjIESUqOi1JD0nqLWGHCkR.jpg
+
   Cloverfield:
     template: {name: collection}
     trakt_list: https://trakt.tv/users/yokiitos/lists/cloverfield
