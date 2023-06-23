@@ -106,7 +106,7 @@ collections:
 
   Cloverfield:
     template: {name: collection}
-    trakt_list: https://trakt.tv/users/guixamaral/lists/cloverfield
+    trakt_list: https://trakt.tv/users/yokiitos/lists/cloverfield
     url_poster: https://theposterdb.com/api/assets/215650
     url_background: https://i.redd.it/d3w5o9idpbl71.jpg
 
@@ -159,7 +159,7 @@ collections:
 
   Eastrail 177:
     template: {name: collection}
-    trakt_list: https://trakt.tv/users/gersomuzziel/lists/eastrail-177
+    trakt_list: https://trakt.tv/lists/official/eastrail-177-collection
     url_poster: https://theposterdb.com/api/assets/162389
     url_background: https://halloweenlove.com/images/posts/eastrail-177-trilogy.jpg
 
@@ -554,7 +554,7 @@ collections:
 
   Star Wars:
     template: {name: collection}
-    trakt_list: https://trakt.tv/users/draackje/lists/star-wars
+    trakt_list: https://trakt.tv/users/darkman1498/lists/star-wars
     url_poster: https://theposterdb.com/api/assets/52755
     url_background: https://wallpaperaccess.com/full/1101749.jpg
 
