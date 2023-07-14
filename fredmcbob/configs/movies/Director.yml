@@ -15,6 +15,11 @@ collections:
 #    template: {name: people, person: 19303}
 #    url_poster: https://theposterdb.com/api/assets/82586/download?performed_by=Yaarrrr
 #    url_background: https://yesofcorsa.com/wp-content/uploads/2017/03/Kevin-Smith-Wallpaper-HQ-1024x683.jpg
+  Martin Scorsese:
+    director: tmdb
+    template: {name: people, person: 1032}
+    url_poster: https://theposterdb.com/api/assets/278017
+    url_background: https://i.pinimg.com/originals/1f/b4/a5/1fb4a56f57d839c1feea149427accddf.jpg
   Quentin Tarantino:
     director: tmdb
     template: {name: people, person: 138}
