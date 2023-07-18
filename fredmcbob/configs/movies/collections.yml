@@ -387,6 +387,7 @@ collections:
     trakt_list: https://trakt.tv/users/jawann2002/lists/marvel-cinematic-universe-movies?sort=released,desc
     url_poster: https://theposterdb.com/api/assets/162417
     url_background: https://images.hdqwalls.com/download/marvel-cinematic-universe-jm-3840x2400.jpg
+    collection_order: release
 
   Matrix:
     template: {name: collection, collection: "2344"}
