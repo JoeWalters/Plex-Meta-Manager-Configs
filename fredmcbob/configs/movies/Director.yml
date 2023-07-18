@@ -6,10 +6,9 @@ templates:
     smart_filter:
       any:
         director: tmdb
+      sort_by: release.asc
     tmdb_person: <<person>>
-#    sort_title: ++_<<collection_name>>
     sort_title: +35_<<collection_name>>
-    collection_order: release
 collections:
   Christopher Nolan:
     director: tmdb
