@@ -171,11 +171,11 @@ collections:
 ##       Collections       ##
 #############################
 
-  Film-Noir: #Added IMDB Genre
-    template: {name: Genre, genre: Film-Noir, poster: 213339}
-    imdb_list: 
-      - "https://www.imdb.com/search/title/?title_type=movie&genres=Film-Noir"
-    summary: "Film noir is a cinematic term used primarily to describe stylish Hollywood crime dramas, particularly those that emphasize cynical attitudes and sexual motivations. Many of the prototypical stories and much of the attitude of classic noir derive from the hardboiled school of crime fiction that emerged in the United States during the Great Depression."
+#  Film-Noir: #Added IMDB Genre
+#    template: {name: Genre, genre: Film-Noir, poster: 213339}
+#    imdb_list: 
+#      - "https://www.imdb.com/search/title/?title_type=movie&genres=Film-Noir"
+#    summary: "Film noir is a cinematic term used primarily to describe stylish Hollywood crime dramas, particularly those that emphasize cynical attitudes and sexual motivations. Many of the prototypical stories and much of the attitude of classic noir derive from the hardboiled school of crime fiction that emerged in the United States during the Great Depression."
   Martial Arts: #Added Trakt List
     template: {name: Genre, genre: Martial Arts, poster: 213140}
     sort_title: +02_Martial_Arts
