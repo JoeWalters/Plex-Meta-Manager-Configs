@@ -11,12 +11,6 @@ templates:
     sort_title: +35_<<collection_name>>
     collection_order: release
 collections:
-#  Kevin Smith:
-#    writer: tmdb
-#    director: tmdb
-#    template: {name: people, person: 19303}
-#    url_poster: https://theposterdb.com/api/assets/82586/download?performed_by=Yaarrrr
-#    url_background: https://yesofcorsa.com/wp-content/uploads/2017/03/Kevin-Smith-Wallpaper-HQ-1024x683.jpg
   Christopher Nolan:
     director: tmdb
     template: {name: Person, person: 525}
@@ -26,6 +20,10 @@ collections:
     template: {name: Person, person: "1223, 1224"}
     url_poster: https://theposterdb.com/api/assets/277990
     url_background: https://media.timeout.com/images/103360671/750/422/image.jpg
+  Kevin Smith:
+    template: {name: Person, person: "19303"}
+    url_poster: https://theposterdb.com/api/assets/82586
+    url_background: https://cdn.dribbble.com/users/44324/screenshots/6208484/silentbob.png?resize=400x0
   Martin Scorsese:
     director: tmdb
     template: {name: Person, person: 1032}
