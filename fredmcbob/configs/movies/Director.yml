@@ -2,8 +2,10 @@
 #               People Collections                   #
 ######################################################
 templates:
-  people:
-    actor: tmdb
+  Person:
+    smart_filter:
+      any:
+        director: tmdb
     tmdb_person: <<person>>
 #    sort_title: ++_<<collection_name>>
     sort_title: +35_<<collection_name>>
@@ -17,36 +19,40 @@ collections:
 #    url_background: https://yesofcorsa.com/wp-content/uploads/2017/03/Kevin-Smith-Wallpaper-HQ-1024x683.jpg
   Christopher Nolan:
     director: tmdb
-    template: {name: Director, person: 525}
+    template: {name: Person, person: 525}
     url_poster: https://theposterdb.com/api/assets/52710
     url_background: https://www.leadersedge.com/wp-content/uploads/2019/10/1119_Arena_Famous_Christopher-Nolan.jpg
+  Coen Brothers:
+    template: {name: Person, person: "1223, 1224"}
+    url_poster: https://theposterdb.com/api/assets/277990
+    url_background: https://media.timeout.com/images/103360671/750/422/image.jpg
   Martin Scorsese:
     director: tmdb
-    template: {name: Director, person: 1032}
+    template: {name: Person, person: 1032}
     url_poster: https://theposterdb.com/api/assets/278017
     url_background: https://i.pinimg.com/originals/1f/b4/a5/1fb4a56f57d839c1feea149427accddf.jpg
   Quentin Tarantino:
     director: tmdb
-    template: {name: Director, person: 138}
+    template: {name: Person, person: 138}
     url_poster: https://theposterdb.com/api/assets/167512
     url_background: https://i.pinimg.com/originals/26/a3/d7/26a3d7cf8567caa5c979be6946bd4861.png
   Ridley Scott:
     director: tmdb
-    template: {name: Director, person: 578}
+    template: {name: Person, person: 578}
     url_poster: https://theposterdb.com/api/assets/230955
     url_background: https://cdn.wealthygorilla.com/wp-content/uploads/2022/09/Ridley-Scott-Net-Worth-1000x600.jpg
   Stanley Kubrick:
     director: tmdb
-    template: {name: Director, person: 240}
+    template: {name: Person, person: 240}
     url_poster: https://theposterdb.com/api/assets/47475
     url_background: https://nofilmschool.com/sites/default/files/styles/facebook/public/uploads/2014/05/kubrick-header.jpg?itok=EBtQcBo8
   Steven Spielberg:
     director: tmdb
-    template: {name: Director, person: 488}
+    template: {name: Person, person: 488}
     url_poster: https://theposterdb.com/api/assets/52772
     url_background: https://media.lesechos.com/api/v1/images/view/5d42d4293e45466a7921e67f/1280x720/ech22237125-1.jpg
   Woody Allen:
     director: tmdb
-    template: {name: Director, person: 1243}
+    template: {name: Person, person: 1243}
     url_poster: https://theposterdb.com/api/assets/47482
     url_background: https://static01.nyt.com/images/2013/07/21/arts/21WOODYILLO_SPAN/21WOODYILLO_SPAN-superJumbo.jpg
