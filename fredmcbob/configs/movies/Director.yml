@@ -43,7 +43,7 @@ collections:
     template: {name: Person, person: 240}
     url_poster: https://theposterdb.com/api/assets/47475
     url_background: https://nofilmschool.com/sites/default/files/styles/facebook/public/uploads/2014/05/kubrick-header.jpg?itok=EBtQcBo8
-  Steven Spielberg:
+  Stephen Spielberg:
     director: tmdb
     template: {name: Person, person: 488}
     url_poster: https://theposterdb.com/api/assets/52772
