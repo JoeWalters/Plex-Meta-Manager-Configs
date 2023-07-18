@@ -90,7 +90,7 @@ collections:
     summary: Biography films are a genre that dramatizes the life of a non-fictional or historically-based person or people. Such films show the life of a historical person and the central character's real name is used.
 #  Children:
 #    template: {name: Dynamic, collection: Children, poster: 241751}
-    summary: A children's film, or family film, is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind.
+#    summary: A children's film, or family film, is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind.
   Comedy:
     template: {name: Dynamic, collection: Comedy, poster: 213139}
     summary: Comedy is a genre of film that uses humor as a driving force. The aim of a comedy film is to illicit laughter from the audience through entertaining stories and characters. Although the comedy film may take on some serious material, most have a happy ending. Comedy film has the tendency to become a hybrid sub-genre because humor can be incorporated into many other genres. Comedies are more likely than other films to fall back on the success and popularity of an individual star.
@@ -117,7 +117,7 @@ collections:
     summary: History films are a genre that takes historical events and people and interprets them in a larger scale. Historical accuracy is not the main focus, but rather the telling of a grandiose story. The drama of an History films are often accentuated by a sweeping musical score, lavish costumes, and high production value.
 #  Home and Garden:
 #    template: {name: Dynamic, collection: Home and Garden, poster: }
-  # summary: 
+#    summary: "blah"
   Horror:
     template: {name: Dynamic, collection: Horror, poster: 213106}
     summary: Horror films are a genre that aims to create a sense of fear, panic, alarm, and dread for the audience. These films are often unsettling and rely on scaring the audience through a portrayal of their worst fears and nightmares. Horror films usually center on the arrival of an evil force, person, or event. Many Horror films include mythical creatures such as ghosts, vampires, and zombies. Traditionally, Horror films incorporate a large amount of violence and gore into the plot. Though it has its own style, Horror film often overlaps into Fantasy, Thriller, and Science-Fiction genres.
