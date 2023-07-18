@@ -13,40 +13,40 @@ collections:
   Christopher Nolan:
     director: tmdb
     template: {name: Person, person: 525}
-    url_poster: https://theposterdb.com/api/assets/52710
+    url_poster: https://theposterdb.com/api/assets/47425
     url_background: https://www.leadersedge.com/wp-content/uploads/2019/10/1119_Arena_Famous_Christopher-Nolan.jpg
   Coen Brothers:
     template: {name: Person, person: "1223, 1224"}
-    url_poster: https://theposterdb.com/api/assets/277990
+    url_poster: https://theposterdb.com/api/assets/115506
     url_background: https://media.timeout.com/images/103360671/750/422/image.jpg
   Kevin Smith:
     template: {name: Person, person: "19303"}
-    url_poster: https://theposterdb.com/api/assets/82586
+    url_poster: https://theposterdb.com/api/assets/47455
     url_background: https://cdn.dribbble.com/users/44324/screenshots/6208484/silentbob.png?resize=400x0
   Martin Scorsese:
     director: tmdb
     template: {name: Person, person: 1032}
-    url_poster: https://theposterdb.com/api/assets/278017
+    url_poster: https://theposterdb.com/api/assets/47460
     url_background: https://i.pinimg.com/originals/1f/b4/a5/1fb4a56f57d839c1feea149427accddf.jpg
   Quentin Tarantino:
     director: tmdb
     template: {name: Person, person: 138}
-    url_poster: https://theposterdb.com/api/assets/167512
+    url_poster: https://theposterdb.com/api/assets/47468
     url_background: https://i.pinimg.com/originals/26/a3/d7/26a3d7cf8567caa5c979be6946bd4861.png
   Ridley Scott:
     director: tmdb
     template: {name: Person, person: 578}
-    url_poster: https://theposterdb.com/api/assets/230955
+    url_poster: https://theposterdb.com/api/assets/47470
     url_background: https://cdn.wealthygorilla.com/wp-content/uploads/2022/09/Ridley-Scott-Net-Worth-1000x600.jpg
   Stanley Kubrick:
     director: tmdb
     template: {name: Person, person: 240}
     url_poster: https://theposterdb.com/api/assets/47475
     url_background: https://nofilmschool.com/sites/default/files/styles/facebook/public/uploads/2014/05/kubrick-header.jpg?itok=EBtQcBo8
-  Stephen Spielberg:
+  Steven Spielberg:
     director: tmdb
     template: {name: Person, person: 488}
-    url_poster: https://theposterdb.com/api/assets/52772
+    url_poster: https://theposterdb.com/api/assets/47477
     url_background: https://media.lesechos.com/api/v1/images/view/5d42d4293e45466a7921e67f/1280x720/ech22237125-1.jpg
   Woody Allen:
     director: tmdb
