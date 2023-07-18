@@ -105,7 +105,7 @@ collections:
     url_background: https://www.themoviedb.org/t/p/original/ojjzZUQlqKTsN1T7s5OAVZSjYMH.jpg
 
   Clerks:
-    template: {name: collection: "182813"}
+    template: {name: collection, collection: "182813"}
     url_poster: https://theposterdb.com/api/assets/307765
     url_background: https://www.themoviedb.org/t/p/original/m1VA6XjIESUqOi1JD0nqLWGHCkR.jpg
 
