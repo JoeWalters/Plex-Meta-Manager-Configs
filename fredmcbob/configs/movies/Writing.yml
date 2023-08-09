@@ -15,5 +15,5 @@ templates:
 collections:
   Stephen King (Writing):
     template: { name: Person, person: "Stephen King" }
-    url_poster: https://theposterdb.com/api/assets/164836
+    url_poster: https://theposterdb.com/api/assets/330104
     url_background: https://wallpapercave.com/wp/wp1888898.jpg
