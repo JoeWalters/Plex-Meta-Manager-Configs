@@ -566,7 +566,7 @@ collections:
 
   Star Trek:
     template: {name: collection, collection: "115575"}
-    url_poster: https://theposterdb.com/api/assets/222279
+    url_poster: https://theposterdb.com/api/assets/164122
     url_background: https://www.themoviedb.org/t/p/original/gWl5pN2FplE709aVtA4lakwsE6t.jpg
 
   Terminator:
