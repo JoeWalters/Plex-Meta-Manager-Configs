@@ -42,7 +42,7 @@ collections:
     director: tmdb
     template: {name: Person, person: 240}
     url_poster: https://theposterdb.com/api/assets/47475
-    url_background: https://nofilmschool.com/sites/default/files/styles/facebook/public/uploads/2014/05/kubrick-header.jpg?itok=EBtQcBo8
+    url_background: https://www.infobae.com/new-resizer/7fc6SCbOkw3OPWgKImlvBp1z17w=/arc-anglerfish-arc2-prod-infobae/public/TX6LGPPJCBA2PNMYHKXJ6MZAKI.jpg
   Steven Spielberg:
     director: tmdb
     template: {name: Person, person: 488}
