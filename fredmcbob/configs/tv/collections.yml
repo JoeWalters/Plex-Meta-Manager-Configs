@@ -18,5 +18,5 @@ collections:
   Star Wars:
     template: {name: Show, show: "70399, 72244, 73697, 83268, 250498, 283468, 330710, 351575, 356114, 361753, 380352, 385376, 393187, 393190, 393197, 393199, 393214, 393218, 393589"}
     smart_label: year.asc
-    url_poster: https://theposterdb.com/api/assets/52755
+    url_poster: https://theposterdb.com/api/assets/226519
     url_background: https://wallpaperaccess.com/full/1101749.jpg
