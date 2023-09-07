@@ -561,7 +561,7 @@ collections:
   Star Wars:
     template: {name: collection}
     trakt_list: https://trakt.tv/users/darkman1498/lists/star-wars
-    url_poster: https://theposterdb.com/api/assets/52755
+    url_poster: https://theposterdb.com/api/assets/226519
     url_background: https://wallpaperaccess.com/full/1101749.jpg
 
   Star Trek:
