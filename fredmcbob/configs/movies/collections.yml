@@ -629,7 +629,7 @@ collections:
   X-Men:
     template: {name: collection}
     trakt_list: https://trakt.tv/users/bertjj/lists/x-men
-    url_poster: https://theposterdb.com/api/assets/52741
+    url_poster: https://theposterdb.com/api/assets/171112
     url_background: https://s2.best-wallpaper.net/wallpaper/3840x2160/1607/X-Men-Days-of-Future-Past-Ultra-HD_3840x2160.jpg
 
   xXx:
