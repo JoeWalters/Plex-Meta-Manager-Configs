@@ -537,6 +537,11 @@ collections:
     url_poster: https://theposterdb.com/api/assets/161876
     url_background: https://www.themoviedb.org/t/p/original/jQRuN5bbV4vaSfJzFKDn1J9Fc50.jpg
 
+  Scary Movie:
+    template: {name: collection, collection: "4246"}
+    url_poster: https://theposterdb.com/api/assets/161875
+    url_background: https://s3.crackedcdn.com/phpimages/article/1/5/3/877153.jpg
+
   Scream:
     template: {name: collection, collection: "2602"}
     url_poster: https://theposterdb.com/api/assets/161544
