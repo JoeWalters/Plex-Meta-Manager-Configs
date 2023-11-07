@@ -29,6 +29,7 @@ collections:
     summary: "What music does the Easter Bunny listen to? Hip-hop."
     url_poster: https://theposterdb.com/api/assets/212636/
     schedule: range(04/01-04/18)
+    delete_not_scheduled: true
     visible_library: true
     visible_home: true
     visible_shared: true
@@ -45,6 +46,7 @@ collections:
     summary: "What's a monster's favorite bean? A human bean."
     url_poster: https://theposterdb.com/api/assets/212637
     schedule: range(10/01-11/02)
+    delete_not_scheduled: true
     visible_library: true
     visible_home: true
     visible_shared: true
@@ -58,6 +60,7 @@ collections:
     summary: "What do you call a ghost turkey? A Poultrygeist!"
     url_poster: https://theposterdb.com/api/assets/212638/
     schedule: range (11/14-11/25)
+    delete_not_scheduled: true
     visible_home: true
     visible_shared: true
     visible_library: true
@@ -71,6 +74,7 @@ collections:
     summary: "What did the watermelon say to his fiance? You are one in a melon."
     url_poster: https://theposterdb.com/api/assets/212641
     schedule: range (02/01-02/14)
+    delete_not_scheduled: true
     visible_home: true
     visible_shared: true
     visible_library: true
