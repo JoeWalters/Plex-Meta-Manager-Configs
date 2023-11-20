@@ -53,6 +53,13 @@ collections:
     trakt_list:
       - https://trakt.tv/users/breadbasket/lists/joe-recommends
     summary: "Recommended by Joe"
+
+  Recommended Standup:
+    template: {name: Suggestion}
+    url_poster: https://nextcloud.jwalters.org/apps/files_sharing/publicpreview/HFwxtEmDR8NReQK?file=/Recommendedstandup.png&fileId=105554&x=2560&y=1600&a=true
+    trakt_list:
+      - https://trakt.tv/lists/26268416
+    summary: "Recommended Standup Comedy specials"
     
 #  Popular:
 #    template: {name: Suggestion, poster: 213575}
