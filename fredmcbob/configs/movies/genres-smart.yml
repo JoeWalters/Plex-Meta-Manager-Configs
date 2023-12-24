@@ -247,14 +247,14 @@ collections:
     filters:
       genre: Comedy
 ## Romantic Drama is a dynamic collection list ##
-  Romantic Drama:
-    sort_title: +02_Romantic_Drama
-    template: { name: IMDB Special Genre, poster: 213142}
-    imdb_list: 
-      - "https://www.imdb.com/search/title/?title_type=movie,&user_rating=5.0,10.0&num_votes=1000,&genres=romance,drama"
-    summary: "Romantic Drama films are a genre that explores the complex side of love. The plot usually centers around an obstacle that is preventing love between two people. The obstacles in Romantic Drama film can range from a family's disapproval, to forbidden love, to one's own psychological restraints. Many Romantic Dramas end with the lovers separating because of the enormity of the obstacle, the realization of incompatibility, or simply because of fate."
-    filters:
-      genre: Drama
+#  Romantic Drama:
+#    sort_title: +02_Romantic_Drama
+#    template: { name: IMDB Special Genre, poster: 213142}
+#    imdb_list: 
+#      - "https://www.imdb.com/search/title/?title_type=movie,&user_rating=5.0,10.0&num_votes=1000,&genres=romance,drama"
+#    summary: "Romantic Drama films are a genre that explores the complex side of love. The plot usually centers around an obstacle that is preventing love between two people. The obstacles in Romantic Drama film can range from a family's disapproval, to forbidden love, to one's own psychological restraints. Many Romantic Dramas end with the lovers separating because of the enormity of the obstacle, the realization of incompatibility, or simply because of fate."
+#    filters:
+#      genre: Drama
 
 ############################################
 ##       IMDB Keyword Collections        ##
