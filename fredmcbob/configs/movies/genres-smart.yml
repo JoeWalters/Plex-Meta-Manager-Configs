@@ -109,9 +109,9 @@ collections:
   Fantasy:
     template: {name: Dynamic, collection: Fantasy, poster: 213123}
     summary: Fantasy films are a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
-  Food:
-    template: {name: Dynamic, collection: Food, poster: 213351}
-    summary: Food films are broadly defined, we say it's any film that places the preparation, consumption, or reverence of food in such high prominence that it is impossible—or at least unfair—to consider the movie without it.
+#  Food:
+#    template: {name: Dynamic, collection: Food, poster: 213351}
+#    summary: Food films are broadly defined, we say it's any film that places the preparation, consumption, or reverence of food in such high prominence that it is impossible—or at least unfair—to consider the movie without it.
   History:
     template: {name: Dynamic, collection: History, poster: 213100}
     summary: History films are a genre that takes historical events and people and interprets them in a larger scale. Historical accuracy is not the main focus, but rather the telling of a grandiose story. The drama of an History films are often accentuated by a sweeping musical score, lavish costumes, and high production value.
