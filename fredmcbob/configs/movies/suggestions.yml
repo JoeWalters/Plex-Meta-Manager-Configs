@@ -58,14 +58,14 @@ collections:
     template: {name: Suggestion}
     url_poster: https://nextcloud.jwalters.org/apps/files_sharing/publicpreview/PDn9y5FnTMDqkxE?file=/&fileId=106108&x=3440&y=1291&a=true&etag=5fbcd2e5fb154add01a6be77403f22a3
     trakt_list:
-      - https://trakt.tv/lists/26268416
+      - https://trakt.tv/users/breadbasket/lists/top-standup-26268416
     summary: "Best Standup Comedy specials"
 
   Recommended Standup:
     template: {name: Suggestion}
     url_poster: https://nextcloud.jwalters.org/apps/files_sharing/publicpreview/HFwxtEmDR8NReQK?file=/Recommendedstandup.png&fileId=105554&x=2560&y=1600&a=true
     trakt_list:
-      - https://trakt.tv/lists/26408730
+      - https://trakt.tv/users/breadbasket/lists/recommended-standup-26408730
     summary: "Recommended Standup Comedy specials"
     
 #  Popular:
@@ -92,13 +92,14 @@ collections:
 #    summary: "A collection of newly-released movies in cinema and on streaming services."
     
 ##################
-##     IMDb     ##
+##     Top Rated Trakt     ##
 ##################
 
   Top Rated:
     template: {name: Suggestion, poster: 213613}
-    imdb_list: 
-      - https://www.imdb.com/search/title/?groups=top_250&count=250&sort=user_rating,desc&title_type=movie
+    trakt_list: 
+      - https://trakt.tv/users/movistapp/lists/top-rated
+      - https://trakt.tv/users/mrwendellu/lists/top-rated
     summary: Top Rated Movies  
     
 ######################
