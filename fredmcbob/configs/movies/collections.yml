@@ -408,7 +408,7 @@ collections:
 
   Middle Earth:
     template: {name: collection}
-    trakt_list: https://trakt.tv/users/lutgnature/lists/lord-of-the-rings-hobbit
+    trakt_list: https://trakt.tv/users/jjmalpz/lists/middle-earth
     url_poster: https://theposterdb.com/api/assets/76892
     url_background: https://wallpaperaccess.com/full/838293.jpg
 
@@ -520,7 +520,9 @@ collections:
     url_background: https://www.themoviedb.org/t/p/original/oJHR6WSbljwj7WeC91XYFb8dIkF.jpg
 
   Ring:
-    template: {name: collection, collection: "36178"}
+    template: {name: collection}
+    trakt_list:
+      - https://trakt.tv/lists/official/ring-collection
     url_poster: https://theposterdb.com/api/assets/161878
     url_background: https://www.themoviedb.org/t/p/original/mdrNIAa3Ryd0g5HsdPsnaDuzmyN.jpg
 
