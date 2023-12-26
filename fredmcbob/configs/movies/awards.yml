@@ -38,5 +38,5 @@ collections:
   Award Winning Movies:
     template: {name: Awards, poster: 213569}
     trakt_list: 
-      - https://trakt.tv/users/movistapp/lists/christmas-movies
+      - https://trakt.tv/lists/20189117
     summary: "A collection of winning movies from the Emmys, Oscars and Golden Globe award ceremonies over the years"
