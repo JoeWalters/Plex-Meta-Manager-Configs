@@ -368,7 +368,9 @@ collections:
     url_background: https://www.themoviedb.org/t/p/original/8OufxZdzdi6LhEoeRwnwIsf1uSb.jpg
 
   Lord of the Rings:
-    template: {name: collection, collection: "119"}
+    template: {name: collection}
+    trakt_list: 
+      - https://trakt.tv/lists/26608051
     url_poster: https://theposterdb.com/api/assets/52722
     url_background: https://www.themoviedb.org/t/p/original/jg4qGbVuwXzbuvoDUeW1ooCseAC.jpg
 
