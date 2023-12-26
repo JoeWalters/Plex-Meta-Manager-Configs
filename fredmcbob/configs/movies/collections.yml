@@ -370,7 +370,7 @@ collections:
   Lord of the Rings:
     template: {name: collection}
     trakt_list: 
-      - https://trakt.tv/lists/26608051
+      - https://trakt.tv/users/breadbasket/lists/lord-of-the-rings
     url_poster: https://theposterdb.com/api/assets/52722
     url_background: https://www.themoviedb.org/t/p/original/jg4qGbVuwXzbuvoDUeW1ooCseAC.jpg
 
