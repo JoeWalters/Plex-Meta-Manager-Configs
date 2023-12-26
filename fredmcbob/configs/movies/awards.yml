@@ -38,5 +38,5 @@ collections:
   Award Winning Movies:
     template: {name: Awards, poster: 213569}
     trakt_list: 
-      - https://trakt.tv/lists/20189117
+      - https://trakt.tv/users/marythemerchant/lists/awards-watchlist
     summary: "A collection of winning movies from the Emmys, Oscars and Golden Globe award ceremonies over the years"
