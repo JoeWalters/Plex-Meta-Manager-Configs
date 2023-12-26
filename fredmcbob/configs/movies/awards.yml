@@ -37,8 +37,6 @@ collections:
 
   Award Winning Movies:
     template: {name: Awards, poster: 213569}
-    imdb_list: 
-      - url: "https://www.imdb.com/search/title/?title_type=feature,short,documentary&groups=emmy_winner&sort=year,desc"
-      - url: "https://www.imdb.com/search/title/?title_type=feature,short,documentary&groups=golden_globe_winner&sort=year,desc"
-      - url: "https://www.imdb.com/search/title/?title_type=feature,short,documentary&groups=oscar_winner&sort=year,desc"
+    trakt_list: 
+      - https://trakt.tv/users/movistapp/lists/christmas-movies
     summary: "A collection of winning movies from the Emmys, Oscars and Golden Globe award ceremonies over the years"
