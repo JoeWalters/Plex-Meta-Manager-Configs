@@ -4,8 +4,10 @@
 
 collections:
   Best of 1970s:
-    imdb_list:
-      url: https://www.imdb.com/search/title/?release_date=1970-01-01,1979-12-31&num_votes=10000,&sort=num_votes,desc
+    trakt_list:
+      - https://trakt.tv/lists/9356214
+      - https://trakt.tv/lists/11571450
+      - https://trakt.tv/lists/20694163
       limit: 150
     url_poster: https://theposterdb.com/api/assets/213584
     url_background: https://wallpapercave.com/wp/wp4016022.jpg
