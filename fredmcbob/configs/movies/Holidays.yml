@@ -19,6 +19,22 @@ collections:
     visible_library: true
     visible_home: true
     visible_shared: true
+  
+  New Years Movies:
+    sync_mode: append
+    smart_label: release.desc
+    sort_title: +02_NewYear
+    summary: "What is a New Year's resolution? Something that goes in one year and out the other."
+    trakt_list: 
+      - https://trakt.tv/users/threespoons/lists/new-year-s-movies
+      - https://trakt.tv/users/mikeroz83/lists/new-year-s-day-movies
+      - https://trakt.tv/users/laurenceibrahim/lists/new-year-s-flicks
+    url_poster: https://theposterdb.com/api/assets/408570
+    schedule: range(12/28-01/01)
+    delete_not_scheduled: true
+    visible_library: true
+    visible_home: true
+    visible_shared: true
 
   Easter Movies:
     sync_mode: sync
@@ -27,7 +43,7 @@ collections:
     trakt_list:
       - https://trakt.tv/users/smwixted/lists/easter
     summary: "What music does the Easter Bunny listen to? Hip-hop."
-    url_poster: https://theposterdb.com/api/assets/212636/
+    url_poster: https://theposterdb.com/api/assets/212636
     schedule: range(04/01-04/18)
     delete_not_scheduled: true
     visible_library: true
