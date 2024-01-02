@@ -14,7 +14,7 @@ collections:
       - https://trakt.tv/users/pualani78/lists/christmas-2020
       - https://trakt.tv/users/veninjak/lists/complete-christmas-2021-copy
     url_poster: https://theposterdb.com/api/assets/212635
-    schedule: range(12/01-01/05)
+    schedule: range(12/01-12/26)
     delete_not_scheduled: true
     visible_library: true
     visible_home: true
