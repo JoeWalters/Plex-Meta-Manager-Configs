@@ -92,13 +92,26 @@ collections:
 #    template: {name: Dynamic, collection: Children, poster: 241751}
 #    summary: A children's film, or family film, is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind.
   Comedy:
-    template: {name: Dynamic, collection: Comedy, poster: 213139}
+    # template: {name: Dynamic, collection: Comedy, poster: 213139}
+    template: {name: Dynamic, poster: 213139}
+    trakt_list: 
+      - https://trakt.tv/users/rizreflects/lists/comedies
+      - hhttps://trakt.tv/users/adamosborne01/lists/comedy
+      - https://trakt.tv/users/movistapp/lists/comedy
+      - https://trakt.tv/users/canadutchy/lists/comedy
+      - https://trakt.tv/users/omar-comin/lists/comedies
+      - https://trakt.tv/users/wickedking/lists/comedy
     summary: Comedy is a genre of film that uses humor as a driving force. The aim of a comedy film is to illicit laughter from the audience through entertaining stories and characters. Although the comedy film may take on some serious material, most have a happy ending. Comedy film has the tendency to become a hybrid sub-genre because humor can be incorporated into many other genres. Comedies are more likely than other films to fall back on the success and popularity of an individual star.
   Crime:
     template: {name: Dynamic, collection: Crime, poster: 213113}
     summary: Crime films are a genre that revolves around the action of a criminal mastermind. A Crime film will often revolve around the criminal himself, chronicling his rise and fall. Some Crime films will have a storyline that follows the criminal's victim, yet others follow the person in pursuit of the criminal. This genre tends to be fast paced with an air of mystery – this mystery can come from the plot or from the characters themselves.
   Documentary:
-    template: {name: Dynamic, collection: Documentary, poster: 213141}
+    # template: {name: Dynamic, collection: Documentary, poster: 213141}
+    template: {name: Dynamic, poster: 213141}
+    trakt_list: 
+      - https://trakt.tv/users/movistapp/lists/documentary
+      - https://trakt.tv/users/majeed_pk/lists/documentaries
+      - https://trakt.tv/users/rizreflects/lists/documentaries
     summary: Documentary films are a non-fiction genre intended to document reality primarily for the purposes of instruction, education, or maintaining a historical record.
   Drama:
     template: {name: Dynamic, collection: Drama, poster: 213134}
