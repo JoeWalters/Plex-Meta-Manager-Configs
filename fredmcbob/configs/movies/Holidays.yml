@@ -36,19 +36,19 @@ collections:
     visible_home: true
     visible_shared: true
 
-  Easter Movies:
-    sync_mode: sync
-    smart_label: random
-    sort_title: +02_Easter
-    trakt_list:
-      - https://trakt.tv/users/smwixted/lists/easter
-    summary: "What music does the Easter Bunny listen to? Hip-hop."
-    url_poster: https://theposterdb.com/api/assets/212636
-    schedule: range(04/01-04/18)
-    delete_not_scheduled: true
-    visible_library: true
-    visible_home: true
-    visible_shared: true
+  # Easter Movies:
+  #   sync_mode: sync
+  #   smart_label: random
+  #   sort_title: +02_Easter
+  #   trakt_list:
+  #     - https://trakt.tv/users/smwixted/lists/easter
+  #   summary: "What music does the Easter Bunny listen to? Hip-hop."
+  #   url_poster: https://theposterdb.com/api/assets/212636
+  #   schedule: range(04/01-04/18)
+  #   delete_not_scheduled: true
+  #   visible_library: true
+  #   visible_home: true
+  #   visible_shared: true
 
   Halloween Movies:
     sync_mode: sync
