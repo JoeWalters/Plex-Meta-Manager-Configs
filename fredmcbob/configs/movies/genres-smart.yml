@@ -193,7 +193,8 @@ collections:
     template: {name: Genre, genre: Martial Arts, poster: 213140}
     sort_title: +02_Martial_Arts
     trakt_list:
-      - https://trakt.tv/users/jjjonesjr33/lists/the-top-250-greatest-martial-arts-movies-of-all-time
+      - https://trakt.tv/users/batmanxy/lists/martial-arts
+      - https://trakt.tv/users/moses456/lists/martial-arts_-awesome-martial-arts-movies
     summary: Martial Arts films are a sub-genre of action films that feature numerous martial arts combat between characters. These combats are usually the films' primary appeal and entertainment value, and often are a method of storytelling and character expression and development. Martial Arts are frequently featured in training scenes and other sequences in addition to fights. Martial Arts films commonly include other types of action, such as hand-to-hand combat, stuntwork, chases, and gunfights.   
   Music: #Added Trakt List
     template: {name: Genre, genre: Music, poster: 213098}
@@ -228,7 +229,8 @@ collections:
     template: {name: Special Genre, poster: 213077}
     sort_title: +02_Pandemic
     trakt_list:
-      - https://trakt.tv/users/jjjonesjr33/lists/pandemic-virus-survival-guide
+      - https://trakt.tv/users/y0dase/lists/outbreaks-pandemics
+      - https://trakt.tv/users/twentywashere/lists/corona-extra-pandemics-and-viral-outbreaks
     summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
   ## The Stand Up Commedey collection is auto updated ##
   Stand Up Comedy:
@@ -254,8 +256,9 @@ collections:
   Romantic Comedy:
     sort_title: +02_Romantic_Comedy
     template: { name: IMDB Special Genre, poster: 213087}
-    imdb_list: 
-      - "https://www.imdb.com/search/title/?title_type=movie,&user_rating=5.0,10.0&num_votes=1000,&genres=romance,comedy"
+    trakt_list:
+      - https://trakt.tv/users/peeps_/lists/romantic-comedy
+      - https://trakt.tv/users/hammers-lists/lists/romantic-comedies
     summary: "Romantic Comedy is a genre that attempts to catch the viewer’s heart with the combination of love and humor. This sub-genre is light-hearted and usually places the two protagonists in humorus situation. Romantic-Comedy film revolves around a romantic ideal, such as true love. In the end, the ideal triumphs over the situation or obstacle, thus creating a happy ending."
     filters:
       genre: Comedy
